@@ -11,9 +11,7 @@ Fitness website to be linked with a fitness app. Started as a school project.
 ## `Silent Features`:
 
 * Responsive Design.
-* Portfolio Template.
 * Unique and Dynamic Design.
-* Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
 
 
 [`Click the Demo Button  and View Live Project`](https://mian-ali.github.io/GymWebsite/)
@@ -21,4 +19,4 @@ Fitness website to be linked with a fitness app. Started as a school project.
 
 ## `Project Live Url`:
 
-(https://mian-ali.github.io/GymWebsite/)
+(https://Treecode30.github.io/FitByTristan/)
