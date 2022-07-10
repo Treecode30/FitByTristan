@@ -1,6 +1,6 @@
-# Gym Fitness Website
+# Spartan Training 
 
-Fitness website to be linked with a fitness app. Started as a school project.
+
 
 ## Technologies Used:
 
@@ -14,7 +14,7 @@ Fitness website to be linked with a fitness app. Started as a school project.
 * Unique and Dynamic Design.
 
 
-[`Click the Demo Button  and View Live Project`](https://mian-ali.github.io/GymWebsite/)
+[`Click the Demo Button  and View Live Project`](https://Treecode30.github.io/FitByTristan/)
 
 
 ## `Project Live Url`:
